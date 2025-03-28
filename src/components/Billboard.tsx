@@ -1,4 +1,3 @@
-
 import { Play, Info } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
@@ -9,7 +8,7 @@ const Billboard = () => {
       <div 
         className="w-full h-full bg-cover bg-center"
         style={{ 
-          backgroundImage: "url('https://occ-0-2774-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcJ8_aFZbjvmgVGfv54Kog9Y-bnVYC7sBvaW3tJldk-dSE8H1vJSDV_6PVxyvuazSTLPGPz7v4JCzCmPUROCvgVrZxIX.jpg?r=8be')" 
+          backgroundImage: "url('https://picsum.photos/1920/1080?random=25')" 
         }}
       >
         {/* Gradient overlay */}
